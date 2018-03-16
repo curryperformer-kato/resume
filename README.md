@@ -234,8 +234,8 @@ OS：Linux（CentOS 5.6）
   - SSL証明書更新
 
 規模
-・構築：物理サーバ 5台、AWS EC2 12台
-・運用監視：物理サーバとAWS EC2合計で560台
+- 構築：物理サーバ 5台、AWS EC2 12台
+- 運用監視：物理サーバとAWS EC2合計で560台
 Supermicro 5018D-FN4T、Amazon Web Services（EC2/RDS/S3）、Oracle Linux 7.3、RDS（MySQL）、Ruby 2.1.2、RightScale、Rundeck、Serverspec
 
 ### 2016/04 - 2017/01: SIerに常駐
@@ -250,7 +250,9 @@ Supermicro 5018D-FN4T、Amazon Web Services（EC2/RDS/S3）、Oracle Linux 7.3�
 - 単体・結合試験実施
 
 期間：2ヶ月
+
 規模：Oracle Database1台、VMware ESXi 1台
+
 Linux(RHEL6.7)、Oracle Database 11g R2、VMware ESXi 6.0.0
 
 ■行政LANシステム更新（エンドユーザー：官公庁）
@@ -268,7 +270,9 @@ Linux(RHEL6.7)、Oracle Database 11g R2、VMware ESXi 6.0.0
 - IT資産管理方法、故障・障害時対応設計
 
 期間：5ヶ月
+
 規模：PC約1800台、拠点数20以上、DRサイトあり、サーバ約110台
+
 NEC Express5800、Windows Server 2012 R2、Linux(RHEL6.8)、SQL Server 2014 SP1、ActiveDirectory、ESMPRO ServerManager、WebSAM NetvisorPro V、FortiGate / FortiMail
 
 ■仮想化基盤構築（エンドユーザー：エネルギー）
@@ -283,7 +287,9 @@ NEC Express5800、Windows Server 2012 R2、Linux(RHEL6.8)、SQL Server 2014 SP1�
 - vCenter Server設定（HA、DRS、アラーム）
 
 期間：3ヶ月
+
 規模：vCenter Server 2台、VMware ESXi 30台
+
 HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL Server 2014 SP1、VMware ESXi 6.0.0、vCenter Server 6.0.0
 
 ■自社作業
@@ -318,9 +324,11 @@ HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL S
   - データセンター内のラッキング、サーバ撤去作業
   - 運用監視、障害対応
 
-規模：DELL PowerEdge R300/1台、HP ProLiant DL360 G7 Server/VMware ESXi 仮想マシン3台、HP ProLiant DL360 G9 Server/oVirt（KVM）仮想マシン1台
+規模：DELL PowerEdge R300/1台、HP ProLiant DL360 G7 Server/VMware ESXi 仮想マシン3台、HP ProLiant DL360 G9 Server/oVirt(KVM) 仮想マシン1台
 EC2/20台　EBS/20台　ELB/13台　RDS（MySQL）/1台　S3　CloudFront
+
 CentOS6.6/6.7/7.1、Apache、MySQL、PHP、memcached、Tomcat、openjdk、Postfix、BIND9/Apache POI、Jackson、jquery、PEAR、PECL、google-api-php-client
+
 Windows Server 2012 R2 IIS、SQL Server、.NET Framework、Tomcat、PowerShell、Java Runtime Environment、xymon、awstats、Clam AntiVirus、Tripwire
 
 ### 2014/09 - 2015/03: 通信キャリア（第二種）に常駐
@@ -337,9 +345,8 @@ Windows Server 2012 R2 IIS、SQL Server、.NET Framework、Tomcat、PowerShell�
 - クライアント向けWi-Fiサービスヘルプデスク
 - 社内ヘルプデスク
 
-規模
-Amazon Web Services
-EC2/30台　EBS/30台　RDS/2台
+規模：Amazon Web Services EC2/30台　EBS/30台　RDS/2台
+
 CentOS6.6、Apache、MySQL、memcached、PHP、Postfix、Tomcat、Nginx、Cacti、Nagios
 
 ### 2009/04 - 2014/08
