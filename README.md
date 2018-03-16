@@ -245,11 +245,9 @@ Supermicro 5018D-FN4T、Amazon Web Services（EC2/RDS/S3）、Oracle Linux 7.3�
 - バックアップ手順書・スクリプト作成
 - 単体・結合試験実施
 
-期間：2ヶ月
-
-規模：Oracle Database1台、VMware ESXi 1台
-
-Linux(RHEL6.7)、Oracle Database 11g R2、VMware ESXi 6.0.0
+期間：2ヶ月<br>
+規模：Oracle Database1台、VMware ESXi 1台<br>
+Linux(RHEL6.7)、Oracle Database 11g R2、VMware ESXi 6.0.0<br>
 
 ■行政LANシステム更新（エンドユーザー：官公庁）
 
@@ -265,11 +263,9 @@ Linux(RHEL6.7)、Oracle Database 11g R2、VMware ESXi 6.0.0
 - 運用業務一覧、マニュアル、フロー図の作成
 - IT資産管理方法、故障・障害時対応設計
 
-期間：5ヶ月
-
-規模：PC約1800台、拠点数20以上、DRサイトあり、サーバ約110台
-
-NEC Express5800、Windows Server 2012 R2、Linux(RHEL6.8)、SQL Server 2014 SP1、ActiveDirectory、ESMPRO ServerManager、WebSAM NetvisorPro V、FortiGate / FortiMail
+期間：5ヶ月<br>
+規模：PC約1800台、拠点数20以上、DRサイトあり、サーバ約110台<br>
+NEC Express5800、Windows Server 2012 R2、Linux(RHEL6.8)、SQL Server 2014 SP1、ActiveDirectory、ESMPRO ServerManager、WebSAM NetvisorPro V、FortiGate / FortiMail<br>
 
 ■仮想化基盤構築（エンドユーザー：エネルギー）
 
@@ -282,11 +278,9 @@ NEC Express5800、Windows Server 2012 R2、Linux(RHEL6.8)、SQL Server 2014 SP1�
 - 分散仮想スイッチのポートグループ作成
 - vCenter Server設定（HA、DRS、アラーム）
 
-期間：3ヶ月
-
-規模：vCenter Server 2台、VMware ESXi 30台
-
-HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL Server 2014 SP1、VMware ESXi 6.0.0、vCenter Server 6.0.0
+期間：3ヶ月<br>
+規模：vCenter Server 2台、VMware ESXi 30台<br>
+HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL Server 2014 SP1、VMware ESXi 6.0.0、vCenter Server 6.0.0<br>
 
 ■自社作業
 
@@ -305,6 +299,7 @@ HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL S
   - 要件定義
   - 機器/インスタンスサイズ選定、見積、稟議申請
   - AWS各サービスセットアップ
+  - VMware ESXi インストール
   - 各種ミドルウェアインストール
   - ユーザ管理とSSH接続用秘密鍵生成
   - 各種コンフィグのパラメータ設定
@@ -322,9 +317,7 @@ HP BL c7000 Enclosure、HP ProLiant BL460c Gen9、Windows Server 2012 R2、SQL S
 
 規模：DELL PowerEdge R300/1台、HP ProLiant DL360 G7 Server/VMware ESXi 仮想マシン3台、HP ProLiant DL360 G9 Server/oVirt(KVM) 仮想マシン1台
 EC2/20台　EBS/20台　ELB/13台　RDS（MySQL）/1台　S3　CloudFront
-
 CentOS6.6/6.7/7.1、Apache、MySQL、PHP、memcached、Tomcat、openjdk、Postfix、BIND9/Apache POI、Jackson、jquery、PEAR、PECL、google-api-php-client
-
 Windows Server 2012 R2 IIS、SQL Server、.NET Framework、Tomcat、PowerShell、Java Runtime Environment、xymon、awstats、Clam AntiVirus、Tripwire
 
 ### 2014/09 - 2015/03: 通信キャリア（第二種）に常駐
@@ -341,9 +334,8 @@ Windows Server 2012 R2 IIS、SQL Server、.NET Framework、Tomcat、PowerShell�
 - クライアント向けWi-Fiサービスヘルプデスク
 - 社内ヘルプデスク
 
-規模：Amazon Web Services EC2/30台　EBS/30台　RDS/2台
-
-CentOS6.6、Apache、MySQL、memcached、PHP、Postfix、Tomcat、Nginx、Cacti、Nagios
+規模：Amazon Web Services EC2/30台　EBS/30台　RDS/2台<br>
+CentOS6.6、Apache、MySQL、memcached、PHP、Postfix、Tomcat、Nginx、Cacti、Nagios<br>
 
 ### 2009/04 - 2014/08
 
