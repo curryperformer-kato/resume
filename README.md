@@ -1,5 +1,3 @@
-# 職務経歴書
-
 ## 基本情報
 
 |key|value|
@@ -18,8 +16,6 @@
 
 エンジニア歴 : 3年6ヶ月（2018年4月時点）
 
-|工程|年数|
-|----|----|
 |運用設計|5ヶ月|
 |サーバ構築|2年0ヶ月|
 |サーバ運用監視|2年9ヶ月|
@@ -209,14 +205,14 @@
 - ドキュメント作成（構成管理・変更リリース管理等）
 - SaaSで提供している各サービスの各種パラメーター設定
 
-規模：EC2インスタンス 2000台
-AWS（EC2 / RDS / DynamoDB / CloudWatch / S3 / DynamoDB / Lambda / IAM / Route 53）
-OS：Linux（CentOS 5.6）
-ミドルウェア：Postfix 2.3.3、Apache 2.2.3、OpenLDAP 2.3.43
-言語：Python 2.4.3、Ruby 1.8.7
-監視ツール：Nagios、Sense、Uchiwa、Ganglia
-自動化・CI：Puppet、Jenkins、GitHub
-業務：Google Apps、Slack、Redmine
+規模：EC2インスタンス 2000台<br>
+AWS（EC2 / RDS / DynamoDB / CloudWatch / S3 / DynamoDB / Lambda / IAM / Route 53）<br>
+OS：Linux（CentOS 5.6）<br>
+ミドルウェア：Postfix 2.3.3、Apache 2.2.3、OpenLDAP 2.3.43<br>
+言語：Python 2.4.3、Ruby 1.8.7<br>
+監視ツール：Nagios、Sense、Uchiwa、Ganglia<br>
+自動化・CI：Puppet、Jenkins、GitHub<br>
+業務：Google Apps、Slack、Redmine<br>
 
 ### 2017/02 - 2017/06: DSP（アドテク）に常駐
 
